@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 honcho = "*"
 flask-cors = "*"
+marshmallow = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [dev-packages]
 
